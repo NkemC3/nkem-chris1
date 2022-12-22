@@ -1,0 +1,28 @@
+/* my second css*/
+
+body{background-color: #A5A692; font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+a:link{ text-decoration: none;
+}
+a:visited{ font-weight: bold; color: blue;
+}
+a:hover{text-decoration: underline; background-color: azure;
+}
+
+img{ border: dotted 2px; border-color: darkslategrey;
+
+}
+ul{
+    line-height: 1.7rem;
+}
+h3, h4, h5, h6{line-height: 1.2rem; font-style: italic;
+    text-align: left; color: #44803F ;
+}
+
+.hobbies{ font-weight: bold; color:#8C593B ; text-transform: uppercase;
+}
+
+ol{ line-height: 1.8rem; font-style: italic;
+}
